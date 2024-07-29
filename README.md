@@ -1,4 +1,5 @@
 # NLP-Disaster-Posts
+![image](https://github.com/user-attachments/assets/96b5115f-e276-49a4-8109-e789a13f0c76)
 
 Это задание с Kaggle: https://www.kaggle.com/competitions/nlp-getting-started/overview
 
